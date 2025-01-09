@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Bondi Beach",
+    "image": "https://example.com/bondi-beach.jpg",
+    "description": "A popular beach in Sydney, Australia, known for its golden sands and surfing culture."
+  },
+  {
+    "title": "Waikiki Beach",
+    "image": "https://example.com/waikiki-beach.jpg",
+    "description": "Located in Hawaii, this beach offers stunning views of Diamond Head and is ideal for relaxation."
+  },
+  {
+    "title": "Copacabana Beach",
+    "image": "https://example.com/copacabana-beach.jpg",
+    "description": "A world-famous beach in Rio de Janeiro, Brazil, featuring lively boardwalks and vibrant nightlife."
+  }
+]
