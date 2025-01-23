@@ -1,4 +1,3 @@
-import React from "react";
 import ImageDescription from "./ImageDescription";
 
 function ImageContainer({ title, imageLink, discription }) {
@@ -8,6 +7,7 @@ function ImageContainer({ title, imageLink, discription }) {
       <h3>{title}</h3>
       <img src={imageLink} alt="beach image" />
       <ImageDescription discription={discription} />
+      {/* <p>{discription}</p> */}
     </div>
   );
 }
